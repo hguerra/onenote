@@ -33,3 +33,6 @@ rake db:migrate
 
 ### CanCanCan
 
+```ruby
+rails g cancan:ability
+```
