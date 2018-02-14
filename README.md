@@ -45,5 +45,5 @@ gem install mailcatcher
 
 Running MailCatcher:
 ```sh
-mailcatcher
+mailcatcher --ip=0.0.0.0
 ```
