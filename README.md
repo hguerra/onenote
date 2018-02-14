@@ -36,3 +36,14 @@ rake db:migrate
 ```ruby
 rails g cancan:ability
 ```
+
+### MailCatcher
+
+```ruby
+gem install mailcatcher
+```
+
+Running MailCatcher:
+```sh
+mailcatcher
+```
